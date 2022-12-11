@@ -4,5 +4,5 @@ var dayZ = Math.abs ( (( Date.parse(my_date) -
 Date.parse(currect_data))/(1000*3600*24)) %365);
 var result = dayZ.toFixed(0);
 print("hi;)");
-print("hi;)");
+print("hrtvdtrehtv");
 print()
